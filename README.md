@@ -13,3 +13,5 @@ Open `settings.py` file and edit the following fields:
  - Put the chat_id in `CHAT_ID` field. The bot must has permissions to send message in the desired chat_id, otherwise an error will be raised.
 
 In order to start the bot, use `python3 .` command.
+
+**Note that this bot is not production-ready yet. Feel free to open an issue if you need to**
