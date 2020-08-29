@@ -6,7 +6,7 @@ HEADERS = {
 }
 
 USERNAME = ""     # <-- Put here your instagram's username
-INSTAGRAM_BASE_URL = f"https://instagram.com/{USERNAME}"
+INSTAGRAM_BASE_URL = f"https://instagram.com/{nabil_a_navab}"
 SLEEP_TIME = 60 * 1    # If you got banned from instagram, adjust this value
 
 BOT_TOKEN = ""  # <-- Put here the bot's token
